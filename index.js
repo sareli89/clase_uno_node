@@ -22,3 +22,13 @@ if (exists) {
 } else {
     console.log('Mi no conocerlo'.red)
 }
+
+//declaracion / definicion
+// function alTerminar(){}
+// function alTerminar () -> {}
+
+// llamada de funcion
+alTerminar()
+
+// referencia a la funcion
+alTerminar
