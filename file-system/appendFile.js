@@ -10,3 +10,4 @@ function notAppend(err) {
 }
 
 fs.appendFile('./hola2.txt', 'Usando appendFile por primera vez', notAppend )
+
